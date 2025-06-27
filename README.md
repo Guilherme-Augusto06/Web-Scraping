@@ -1,5 +1,4 @@
-# 📈 IBOV Top 10 Visualizer
-
+# 📈 IBOV Top 10 Ações
 Eu utilizei Python para criar este Web Scraping com as bibliotecas Pandas e Matplotlib. Ele exibe e plota um gráfico com as 10 ações de maior participação na carteira teórica do IBOVESPA do dia 27/06/2025.  
 O arquivo CSV para web scraping foi baixado pelo site público oficial:  
 🔗 https://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm
