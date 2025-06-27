@@ -1,0 +1,20 @@
+Os resultados coletados foram as 10 Ações com mais participação na Carteira Teórica do IBOV do dia 27/06/2025:
+
+
+   Codigo          Acao        Tipo   Qtde_Teorica  Part (%)
+78  VALE3          VALE  ON      NM  4.270.903.023    10.478
+42  ITUB4  ITAUUNIBANCO  PN      N1  4.757.320.048     8.149
+55  PETR4     PETROBRAS  PN      N2  4.410.955.873     6.547
+54  PETR3     PETROBRAS  ON      N2  2.820.420.899     4.553
+8   BBDC4      BRADESCO  PN      N1  5.111.682.020     3.991
+64  SBSP3        SABESP  ON      NM    683.495.706     3.714
+5   B3SA3            B3  ON  EJ  NM  5.200.055.464     3.459
+25  ELET3    ELETROBRAS  ON      N1  1.808.652.474     3.402
+82  WEGE3           WEG  ON  EX  NM  1.482.105.837     3.012
+41  ITSA4        ITAUSA  PN  EJ  N1  5.856.697.902     2.968
+
+
+--------------------------------------------------------------------------------------------------
+Utilizando a biblioteca Matplotlib do Python, também extrai um gráfico de pizza desses dados para facilitar a visualização dessas 10 ações. Para visualizar esse gráfico basta selecionar a opção 2 no menu!
+
+Site público onde obtive o CSV: https://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm
